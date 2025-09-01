@@ -29,7 +29,7 @@ Multi‑threaded desktop app to benchmark CPU/memory/network. Uses `ExecutorServ
 * Network: download‑based throughput test
 * Live charts + responsive UI
 
-**Code:** 🔗 *add repo link*
+**Code:** 🔗 *https://github.com/Mohith13211/System-Bench-Marking-app-using-Java.git*
 
 ---
 
@@ -41,7 +41,7 @@ Classic 3×3 game with a clean Swing UI and Minimax AI to always win or force a 
 * Robust game loop: turns, wins, draw handling
 * Instant UI updates via button events
 
-**Code:** 🔗 *add repo link*
+**Code:** 🔗 *https://github.com/Mohith13211/TicTacToe-Game-with-AI.git*
 
 ---
 
