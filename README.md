@@ -1,8 +1,15 @@
 <!--
 This README is tailored from Mohith's resume. Swap any placeholders (🔗 add-link) with your actual repo links.
 -->
-
 # 👋 Hi, I'm **Mohith Chowdary**
+<!-- Animated robot vector in top-right -->
+<div align="right">
+  <img src="Robot says hello.gif" alt="Robot says hello animation" width="120"/>
+</div>
+
+
+
+
 
 **`CSE Undergrad (2023–2027) • Java & Python • Backend + Algorithms`**
 
