@@ -53,7 +53,7 @@ Classic 3×3 game with a clean Swing UI and Minimax AI to always win or force a 
 ## 🎓 Education
 
 * **Malla Reddy University, Hyderabad** — B.Tech in CSE (Aug 2023 – May 2027)  
-  * CGPA: **9.05**
+  * CGPA: **9.06**
 
 * **Narayana Junior College, Kakinada** — Intermediate (Aug 2021 – May 2023)  
   * Percentage: **97.6%**
