@@ -60,10 +60,14 @@ Classic 3×3 game with a clean Swing UI and Minimax AI to always win or force a 
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats-->
 
 <!-- Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohith13211&show_icons=true&theme=gruvbox)
+<!--![Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohith13211&show_icons=true&theme=gruvbox)--
+
+
+
+
 
 ---
 
